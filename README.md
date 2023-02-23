@@ -6,7 +6,7 @@ Email: [**sosogvritishvili@gmail.com**](mailto:sosogvritishvili@gmail.com) [**@L
 
 ### **SUMMARY**
 
-I'm a Web Developer from the marketing and creative industry. Skilled in HTML5, CSS3(SCSS, BEM, Tailwind), JS,, TS, Vue ⅔., Nuxt,, React Native, PHP, Laravel, and WordPress. Prefer working on Front-end technologies. Focused on clean and clear code. I'm a pedant and perfectionist in coding and doing my job perfectly. I'm not sitting in one pose, trying to always be in touch with modern technologies and learn new things every day to write a better, faster, and easier to understand program code.
+I'm a Web Developer from the marketing and creative industry. Skilled in HTML5, CSS3(SCSS, BEM, Tailwind), JS, TS, Vue ⅔., Nuxt, React Native, PHP, Laravel, and WordPress. Prefer working on Front-end technologies. Focused on clean and clear code. I'm a pedant and perfectionist in coding and doing my job perfectly. I'm not sitting in one pose, trying to always be in touch with modern technologies and learn new things every day to write a better, faster, and easier to understand program code.
 
 Mostly I am working with Vue, but i also have experience with react native, maybe someday I will back to developing mobile apps, but for now this is not my agenda.
 
