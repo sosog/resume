@@ -40,7 +40,7 @@ June 2019 - November 2019
 
 August 2018 - June 2019
 
-- Worked on external medium projects as a front-end and back-end developer. Creating and updating custom wordpress plugins and themes.
+- Worked on external medium projects as a front-end and back-end developer. Creating and updating custom WordPress plugins and themes.
 - Responsible for project documentation and composable code. Packages, frameworks, and libraries version updates.
 - Technologies I have used: HTML, CSS, SCSS, JS, ES6, Vue.js, SPA, WordPress (Sage9, Bedrock), Laravel, Composer, NPM, Webpack, Git
 
