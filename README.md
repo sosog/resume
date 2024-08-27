@@ -50,4 +50,4 @@ May 2017 - August 2018
 
 - Worked on developing craft design on Laravel platform and WordPress themes. Helping as a front-end developer on complex projects.
 - Responsible for clean and bugs free code for my or other teammates projects..
-- Technologies I have used: HTML, CSS, JS, ES6, jQuery, PHP, WordPress, WooCommerce, Twig, Blade, Composer, NPM, Gulp, Git, Canvas
+- Technologies I have used: HTML, CSS, JS, ES6, jQuery, PHP, WordPress, WooCommerce, Twig, Blade, Composer, NPM, Gulp, Git, Canvas.
