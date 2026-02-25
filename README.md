@@ -19,7 +19,7 @@ September 2021- PRESENT
 
 - Developing the internal web app, a new single-page application.
 - Responsible for creating new components and functionality, implementing new features, creating composable code, reusable components, making deep refactoring for the old web application code, writing unit, and E2E tests, .
-- Technologies I'm using: HTML, CSS, Tailwind, TS, ES6+, Vue 3, Vuex, Rest API, Vitest, Cypress.
+- Technologies I'm using: HTML, CSS, Tailwind, TS, ES6+, Vue 3, Vuex, Rest API, Vitest, Cypress, Unit testing, Vitest.
 
 ### [@Holar Software](https://holar.io/) _— Front-end developer_
 
