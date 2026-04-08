@@ -6,22 +6,20 @@ Email: [**sosogvritishvili@gmail.com**](mailto:sosogvritishvili@gmail.com) [**@L
 
 ### **SUMMARY**
 
-I'm a front-end developer specializing in TypeScript, Vue.js, and Nuxt. I also have experience with React Native and PHP . I'm
-passionate about writing clean, maintainable code and take pride in delivering exceptional quality in my work. I maintain a
-growth mindset, staying current with modern technologies and continuously learning to write more eﬃcient, readable, and
-performant code.
+Frontend Engineer with 8+ years of experience across different fields and industries, with strong skills in creating great digital experiences. I work with modern technologies including JavaScript (ES6+), TypeScript, Vue.js, Nuxt.js, Inertia.js, SSR, Vitest, HTML5, CSS3 (SASS, BEM), and React Native. I also have experience with PHP, Laravel, and WordPress theme and plugin development. I specialize in front-end development, write clean and efficient code, and pay close attention to detail. I stay current with new technologies and am committed to continuous improvement.
 
 ### **EXPERIENCE**
 
-## [@Flightradar24](https://www.flightradar24.com/) _— Front-end developer_
+## [@Flightradar24](https://www.flightradar24.com/) _— Front-end Engineer_
 
 September 2021- PRESENT
 
-- Developing the internal web app, a new single-page application.
-- Responsible for creating new components and functionality, implementing new features, creating composable code, reusable components, making deep refactoring for the old web application code, writing unit, and E2E tests, .
+- Developing an internal web application as a new single-page application with SSR; refactoring legacy code to improve maintainability and performance.
+- Responsible for creating new reusable components and functionality, implementing new features, and writing unit and integration tests.
+- Performing deep refactoring of legacy frontend codebase, improving code quality and long-term scalability.
 - Technologies I'm using: HTML, CSS, Tailwind, TS, ES6+, Vue 3, Vuex, Rest API, Vitest, Cypress, Unit testing, Vitest.
 
-### [@Holar Software](https://holar.io/) _— Front-end developer_
+### [@Holar Software](https://holar.io/) _— Front-end Engineer_
 
 November2019 - July 2021
 
