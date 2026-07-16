@@ -2,51 +2,60 @@
 
 ## Ioseb Gvritishvili
 
-Email: [**sosogvritishvili@gmail.com**](mailto:sosogvritishvili@gmail.com) [**@Linkedin**](https://www.linkedin.com/in/ioseb-gvritishvili/) [**@GitHub**](https://github.com/sosog) [**@Medium**](https://sosogvritishvili.medium.com/)
+Email: [**sosogvritishvili@gmail.com**](mailto:sosogvritishvili@gmail.com) [**@LinkedIn**](https://www.linkedin.com/in/ioseb-gvritishvili/) [**@GitHub**](https://github.com/sosog) [**@Medium**](https://sosogvritishvili.medium.com/)
 
 ### **SUMMARY**
 
-Frontend Engineer with 8+ years of experience across different fields and industries, with strong skills in creating great digital experiences. I work with modern technologies including JavaScript (ES6+), TypeScript, Vue.js, Nuxt.js, Inertia.js, SSR, Vitest, HTML5, CSS3 (SASS, BEM), and React Native. I also have experience with PHP, Laravel, and WordPress theme and plugin development. I specialize in front-end development, write clean and efficient code, and pay close attention to detail. I stay current with new technologies and am committed to continuous improvement.
+Frontend Engineer with 8+ years of experience across different fields and industries, with strong skills in creating great digital experiences. I work with modern technologies including JavaScript (ES6+), TypeScript, Vue.js, Nuxt.js, Inertia.js, SSR, Vitest, Storybook, React, React Native, HTML5, CSS3 (SASS, BEM), end-to-end testing, CI/CD, Git, and REST APIs. I also have experience with PHP, Laravel, and WordPress theme and plugin development. I specialize in front-end development, writing clean, efficient, and maintainable code, building reusable component-based architectures, and paying close attention to detail. I stay current with new technologies and engineering best practices and am committed to continuous improvement.
 
 ### **EXPERIENCE**
 
-## [@Flightradar24](https://www.flightradar24.com/) _— Front-end Engineer_
+## Front-end Engineer (Contract) — [@Flosum](https://flosum.com/)
 
-September 2021- PRESENT
+April 2026 – Present
 
-- Developing an internal web application as a new single-page application with SSR; refactoring legacy code to improve maintainability and performance.
-- Responsible for creating new reusable components and functionality, implementing new features, and writing unit and integration tests.
-- Performing deep refactoring of legacy frontend codebase, improving code quality and long-term scalability.
-- Technologies I'm using: HTML, CSS, Tailwind, TS, ES6+, Vue 3, Vuex, Rest API, Vitest, Cypress, Unit testing, Vitest.
+* Building a DevOps platform for Salesforce release management, including version control, deployment pipelines, pull requests, and multi-provider Git integration.
+* Developing a Vue 3 + TypeScript single-page application with strict typing, modular Pinia stores, and a composable architecture for scalable and maintainable frontend code.
+* Implementing an adapter-based design system on top of PrimeVue and a shared component library, establishing a Storybook-driven workflow, and enforcing code quality through automated linting, type-checking, and pre-commit hooks.
+* **Technologies:** TypeScript, Vue 3, Pinia, PrimeVue, Storybook, REST API, Git.
 
-### [@Holar Software](https://holar.io/) _— Front-end Engineer_
+## Front-end Engineer — [@Flightradar24](https://www.flightradar24.com/)
 
-November2019 - July 2021
+October 2021 – March 2026
 
-- Working on medium, and complex web and mobile APPs. Also take part in backend development.
-- Responsible for creating composable code, reusable components, optimizing applications, and refactoring,
-- Technologies I have used: HTML, CSS, SCSS, BEM, JS, ES6, React Native, Redux, Vue.js, Vuex, Nuxt.js, SPA, SSR, PHP, Laravel, WordPress(Sage9, Bedrock), Rest API, Composer, NPM, Webpack.
+* Developing an internal web application as a new single-page application with SSR, while refactoring legacy code to improve maintainability and performance.
+* Creating reusable components and features, implementing new functionality, and writing unit and integration tests.
+* Performing deep refactoring of the legacy frontend codebase, improving code quality and long-term scalability.
+* **Technologies:** TypeScript, Vue 3, Pinia, Inertia.js, Vite, Vitest, Tailwind CSS, REST API.
 
-### [@Livo](https://livo.ge/) _— Front-end developer_
+## Front-end Engineer — [@Holar Software](https://holar.io/)
 
-June 2019 - November 2019
+November 2019 – October 2021
 
-- Worked on company's complex internal projects, developing single page applications.
-- Responsible for implementing new features and technologies, also watching on compliance with CSS and JS coding standards.
-- Technologies I have used: HTML, CSS, SCSS, BEM, JS, ES6, Vue.js, Vuex, Nuxt,js, SPA, SSR, Rest API, NPM, Webpack, Git.
+* Worked on medium to complex web and mobile applications while also contributing to backend development.
+* Built reusable components, optimized applications, performed large-scale refactoring, and wrote unit, integration, and end-to-end tests while maintaining Storybook.
+* **Technologies:** React, React Native, Vue.js, Vuex, Nuxt.js, Laravel, WordPress (Sage9, Bedrock), Cypress, Jest.
 
-### [@DDB Tbilisi](http://www.betterfly.ge/) _— Web developer_
+## Front-end Developer — [@Livo](https://livo.ge/)
 
-August 2018 - June 2019
+June 2019 – November 2019
 
-- Worked on external medium projects as a front-end and back-end developer. Creating and updating custom WordPress plugins and themes.
-- Responsible for project documentation and composable code. Packages, frameworks, and libraries version updates.
-- Technologies I have used: HTML, CSS, SCSS, JS, ES6, Vue.js, SPA, WordPress (Sage9, Bedrock), Laravel, Composer, NPM, Webpack, Git
+* Worked on complex internal single-page applications, developing and maintaining SPAs with SSR.
+* Implemented new features, integrated REST APIs, and enforced CSS and JavaScript coding standards.
+* **Technologies:** Vue.js, Vuex, Nuxt.js, REST API, Webpack, Git.
 
-### [@Redberry](https://redberry.international/) _— Web developer_
+## Web Developer — [@DDB Tbilisi](http://www.betterfly.ge/)
 
-May 2017 - August 2018
+August 2018 – June 2019
 
-- Worked on developing craft design on Laravel platform and WordPress themes. Helping as a front-end developer on complex projects.
-- Responsible for clean and bugs free code for my or other teammates projects..
-- Technologies I have used: HTML, CSS, JS, ES6, jQuery, PHP, WordPress, WooCommerce, Twig, Blade, Composer, NPM, Gulp, Git, Canvas.
+* Worked on external medium-sized projects as a front-end and back-end developer, creating and maintaining custom WordPress plugins and themes.
+* Responsible for project documentation, writing composable code, and managing package and framework version updates.
+* **Technologies:** Vue.js, Laravel, WordPress (Sage9, Bedrock), Composer, Webpack, Git.
+
+## Web Developer — [@Redberry](https://redberry.international/)
+
+May 2017 – August 2018
+
+* Developed Laravel applications and WordPress themes while contributing to frontend implementation on complex client projects.
+* Responsible for writing clean, maintainable, and bug-free code across personal and team projects.
+* **Technologies:** PHP, Laravel, WordPress, WooCommerce, Twig, Blade, jQuery, Composer, Gulp, Git.
